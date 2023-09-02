@@ -1,0 +1,12 @@
+.title1{
+    text-align: center;
+}
+.row{
+    margin: 10px;
+}
+.card-body{
+    border: 2px solid black;
+}
+img{
+    border: 2px solid black;
+}
